@@ -1097,6 +1097,28 @@ div.gallery {
 
 
 
+/* About- Page */
+
+.box-head{
+    align-items: center;
+    font-weight: bolder;
+    color: #17224D;
+    font-size: 40px;
+}
+
+.box{
+    background-color: lightgrey;
+    /* width: fit-content; */
+    /* border: 2px solid #17224D; */
+    padding: 50px;
+    margin: 20px;
+}
+
+/* About- Page */
+
+
+
+
 
 
 
